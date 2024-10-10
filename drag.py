@@ -1,6 +1,8 @@
 import pyautogui
 import time
 
+# 小猿口算窗口的输入区域
+
 DRAGGING_SCREEN_START_X = 500
 DRAGGING_SCREEN_START_Y = 1300
 DRAGGING_SCREEN_END_X = 600
